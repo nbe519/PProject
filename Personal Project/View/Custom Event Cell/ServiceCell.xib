@@ -31,7 +31,7 @@
                         <nil key="highlightedColor"/>
                     </label>
                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6af-oc-smp" userLabel="descriptionLabel">
-                        <rect key="frame" x="220" y="57" width="203" height="130"/>
+                        <rect key="frame" x="220" y="57" width="301" height="130"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                         <nil key="textColor"/>
@@ -43,6 +43,7 @@
                         <state key="normal" title="Button"/>
                     </button>
                 </subviews>
+                <color key="backgroundColor" red="0.61128789110000004" green="1" blue="0.60847552370000002" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                 <constraints>
                     <constraint firstItem="MhQ-Cp-emN" firstAttribute="centerY" secondItem="iWr-f8-7vW" secondAttribute="centerY" id="MD7-od-Fzz"/>
                     <constraint firstItem="MhQ-Cp-emN" firstAttribute="top" secondItem="iWr-f8-7vW" secondAttribute="top" id="OJI-0M-ex4"/>

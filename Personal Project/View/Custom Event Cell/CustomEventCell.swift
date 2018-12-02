@@ -10,11 +10,11 @@ import UIKit
 
 class CustomEventCell: UITableViewCell {
 
-    @IBOutlet weak var eventImage: UIImageView!
+    @IBOutlet var eventImage: UIImageView!
     
-    @IBOutlet weak var eventName: UILabel!
+    @IBOutlet var eventName: UILabel!
     
-    @IBOutlet weak var eventDes: UILabel!
+    @IBOutlet var eventDes: UILabel!
     
     
 

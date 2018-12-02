@@ -8,6 +8,7 @@ target 'Personal Project' do
   # Pods for Personal Project
 pod 'Firebase/Core'
 pod 'Firebase/Auth'
+pod 'Firebase/Database'
 
 
 
